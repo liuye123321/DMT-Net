@@ -1,2 +1,2 @@
 # DMT-Net
- Image dehazing
+Official implementation of From Synthetic to Real: Image Dehazing Collaborating with Unlabeled Real Data(ACM MM 2021)
