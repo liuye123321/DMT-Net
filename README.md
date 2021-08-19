@@ -3,8 +3,8 @@ Official implementation of From Synthetic to Real: Image Dehazing Collaborating 
 [arXiv link](https://arxiv.org/abs/2108.02934)
 # Citation
 @inproceedings{liu21DMT,    
-     >author = {Liu, Ye and Zhu, Lei and Pei, Shunda and Fu, Huazhu and Qin, Jing and Zhang, Qing and Wan, Liang and Feng, Wei},  
-     >title = {From Synthetic to Real: Image Dehazing Collaborating with Unlabeled Real Data},      
-     >booktitle = {ACM MM},   
-     >year = {2021}
+&nbsp;&nbsp;&nbsp;&nbsp;author = {Liu, Ye and Zhu, Lei and Pei, Shunda and Fu, Huazhu and Qin, Jing and Zhang, Qing and Wan, Liang and Feng, Wei},  
+&nbsp;&nbsp;&nbsp;&nbsp;title = {From Synthetic to Real: Image Dehazing Collaborating with Unlabeled Real Data},      
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle = {ACM MM},   
+&nbsp;&nbsp;&nbsp;&nbsp;year = {2021}      
 }
