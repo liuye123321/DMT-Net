@@ -20,10 +20,10 @@ Haze4K dataset is available at **[Haze4K link](https://pan.baidu.com/s/141MW0YAv
 
  ## Visual Results on synthetic dataset
 <p align='center'>
-<img src='fig/vis1.png' height="306px" width='413px' >
+<img src='figs/vis1.png' height="306px" width='413px' >
 </div>
 
  ## Visual Results on real world images
 <p align='center'>
-<img src='fig/vis2.png' height="306px" width='413px' >
+<img src='figs/vis2.png' height="306px" width='413px' >
 </div>
