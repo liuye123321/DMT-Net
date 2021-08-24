@@ -15,7 +15,7 @@ Haze4K dataset is available at **[Haze4K link](https://pan.baidu.com/s/141MW0YAv
 # Results in SOTS,Haze4K and HazeRD datasets
  ## Quantitative Results
 <p align='center'>
-<img src="figs/results.png" height="306px" width='800px'> 
+<img src="figs/results.png" height="306px" width='400px'> 
 </div>
 
  ## Visual Results on synthetic dataset
