@@ -12,7 +12,7 @@ Official implementation of From Synthetic to Real: Image Dehazing Collaborating 
 # Haze4K dataset
 Haze4K dataset is available at **[Haze4K link](https://pan.baidu.com/s/141MW0YAvjFcydlroQZZizA)(pw: cmmr)**
 
-# Results in SOTS,Haze4K and HazeRD datasets
+# Results in SOTS, Haze4K and HazeRD datasets
  ## Quantitative Results
 <p align='center'>
 <img src="figs/results.png" height="306px" width='400px'> 
