@@ -18,7 +18,7 @@ Haze4K dataset is available at **[Haze4K link](https://pan.baidu.com/s/141MW0YAv
 <img src="figs/results.png" height="306px" width='400px'> 
 </div>
 
- ## Visual Results on synthetic dataset
+ ## Visual Results on synthetic dataset Haze4K
 <p align='center'>
 <img src='figs/vis1.png' height="306px" width='800px' >
 </div>
